@@ -14,3 +14,4 @@
 - [ ] Project groupings?
 - [ ] Validate kubeconfig file
 - [ ] Create a pricing calculator
+- [ ] Constantly refresh the processes page for readiness of pods
